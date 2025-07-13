@@ -1,0 +1,301 @@
+timestamp,location,vehicle_count,avg_speed,weather,road_type
+2025-07-01 06:00:00,Patna Junction,64,26.88,Fog,Highway
+2025-07-01 06:15:00,Patna Junction,191,38.27,Fog,Bridge
+2025-07-01 06:30:00,Boring Road,74,36.49,Clear,City
+2025-07-01 06:45:00,Patna Junction,196,13.16,Rain,Bridge
+2025-07-01 07:00:00,Kankarbagh,91,20.53,Fog,Highway
+2025-07-01 07:15:00,Bailey Road,187,36.61,Fog,Highway
+2025-07-01 07:30:00,Bailey Road,161,10.8,Clear,Bridge
+2025-07-01 07:45:00,Gandhi Maidan,114,10.61,Rain,Highway
+2025-07-01 08:00:00,Gandhi Maidan,185,48.36,Clear,Bridge
+2025-07-01 08:15:00,Kankarbagh,69,35.37,Rain,Bridge
+2025-07-01 08:30:00,Bailey Road,154,49.43,Fog,Bridge
+2025-07-01 08:45:00,Kankarbagh,88,30.1,Fog,Bridge
+2025-07-01 09:00:00,Bailey Road,180,21.83,Clear,Highway
+2025-07-01 09:15:00,Bailey Road,99,38.51,Fog,Highway
+2025-07-01 09:30:00,Patna Junction,123,28.9,Fog,Bridge
+2025-07-01 09:45:00,Bailey Road,66,44.02,Rain,City
+2025-07-01 10:00:00,Boring Road,60,41.11,Fog,Highway
+2025-07-01 10:15:00,Bailey Road,48,40.57,Clear,Highway
+2025-07-01 10:30:00,Bailey Road,182,37.93,Clear,Highway
+2025-07-01 10:45:00,Boring Road,107,33.76,Clear,Highway
+2025-07-01 11:00:00,Kankarbagh,185,12.22,Rain,Highway
+2025-07-01 11:15:00,Gandhi Maidan,144,21.8,Fog,Bridge
+2025-07-01 11:30:00,Bailey Road,166,23.25,Clear,Highway
+2025-07-01 11:45:00,Gandhi Maidan,102,39.35,Rain,City
+2025-07-01 12:00:00,Boring Road,109,32.39,Fog,Bridge
+2025-07-01 12:15:00,Kankarbagh,183,17.52,Fog,City
+2025-07-01 12:30:00,Bailey Road,89,36.68,Rain,City
+2025-07-01 12:45:00,Bailey Road,59,20.11,Clear,City
+2025-07-01 13:00:00,Boring Road,200,35.14,Clear,Highway
+2025-07-01 13:15:00,Gandhi Maidan,139,27.94,Clear,City
+2025-07-01 13:30:00,Kankarbagh,105,20.28,Fog,Highway
+2025-07-01 13:45:00,Gandhi Maidan,152,23.71,Fog,Bridge
+2025-07-01 14:00:00,Boring Road,64,37.54,Fog,Highway
+2025-07-01 14:15:00,Kankarbagh,180,17.47,Fog,City
+2025-07-01 14:30:00,Kankarbagh,144,37.27,Fog,City
+2025-07-01 14:45:00,Bailey Road,30,13.15,Fog,City
+2025-07-01 15:00:00,Gandhi Maidan,38,19.69,Fog,City
+2025-07-01 15:15:00,Bailey Road,149,34.92,Rain,Bridge
+2025-07-01 15:30:00,Boring Road,169,33.2,Fog,Highway
+2025-07-01 15:45:00,Gandhi Maidan,89,23.54,Fog,Highway
+2025-07-01 16:00:00,Gandhi Maidan,31,43.18,Rain,Highway
+2025-07-01 16:15:00,Gandhi Maidan,117,18.21,Clear,Highway
+2025-07-01 16:30:00,Patna Junction,41,31.71,Rain,City
+2025-07-01 16:45:00,Boring Road,69,14.07,Fog,Bridge
+2025-07-01 17:00:00,Gandhi Maidan,160,20.87,Clear,Bridge
+2025-07-01 17:15:00,Gandhi Maidan,103,42.85,Fog,City
+2025-07-01 17:30:00,Bailey Road,140,15.95,Rain,Bridge
+2025-07-01 17:45:00,Boring Road,191,15.46,Rain,Bridge
+2025-07-01 18:00:00,Bailey Road,21,35.37,Rain,City
+2025-07-01 18:15:00,Bailey Road,110,28.38,Rain,City
+2025-07-01 18:30:00,Bailey Road,70,17.63,Rain,City
+2025-07-01 18:45:00,Gandhi Maidan,140,38.02,Clear,City
+2025-07-01 19:00:00,Patna Junction,85,13.82,Fog,Highway
+2025-07-01 19:15:00,Kankarbagh,148,12.66,Clear,Bridge
+2025-07-01 19:30:00,Gandhi Maidan,108,25.89,Rain,Highway
+2025-07-01 19:45:00,Bailey Road,34,45.67,Fog,Highway
+2025-07-01 20:00:00,Boring Road,115,27.92,Fog,Highway
+2025-07-01 20:15:00,Boring Road,22,41.24,Rain,Highway
+2025-07-01 20:30:00,Kankarbagh,56,47.06,Clear,Bridge
+2025-07-01 20:45:00,Boring Road,57,15.65,Fog,City
+2025-07-01 21:00:00,Patna Junction,132,36.59,Rain,City
+2025-07-01 21:15:00,Boring Road,74,15.3,Fog,Bridge
+2025-07-01 21:30:00,Bailey Road,85,39.27,Fog,Highway
+2025-07-01 21:45:00,Kankarbagh,86,12.37,Clear,Highway
+2025-07-01 22:00:00,Patna Junction,178,20.55,Rain,City
+2025-07-01 22:15:00,Boring Road,168,32.13,Fog,Bridge
+2025-07-01 22:30:00,Patna Junction,165,44.87,Fog,Highway
+2025-07-01 22:45:00,Kankarbagh,114,13.29,Fog,Highway
+2025-07-01 23:00:00,Patna Junction,160,49.38,Clear,Bridge
+2025-07-01 23:15:00,Patna Junction,180,20.84,Clear,Highway
+2025-07-01 23:30:00,Boring Road,62,18.73,Fog,Highway
+2025-07-01 23:45:00,Bailey Road,187,38.69,Fog,City
+2025-07-02 00:00:00,Boring Road,46,49.7,Fog,City
+2025-07-02 00:15:00,Boring Road,32,42.93,Rain,Bridge
+2025-07-02 00:30:00,Boring Road,191,42.23,Clear,Highway
+2025-07-02 00:45:00,Gandhi Maidan,121,32.19,Fog,Highway
+2025-07-02 01:00:00,Boring Road,130,37.32,Fog,Highway
+2025-07-02 01:15:00,Bailey Road,170,42.41,Rain,Highway
+2025-07-02 01:30:00,Boring Road,127,49.82,Clear,Bridge
+2025-07-02 01:45:00,Boring Road,133,44.54,Clear,Bridge
+2025-07-02 02:00:00,Kankarbagh,137,30.59,Rain,Highway
+2025-07-02 02:15:00,Kankarbagh,106,14.28,Fog,Bridge
+2025-07-02 02:30:00,Patna Junction,28,40.64,Rain,Bridge
+2025-07-02 02:45:00,Gandhi Maidan,46,11.19,Fog,Highway
+2025-07-02 03:00:00,Bailey Road,32,28.34,Rain,City
+2025-07-02 03:15:00,Bailey Road,155,28.77,Clear,Bridge
+2025-07-02 03:30:00,Patna Junction,66,41.38,Rain,Bridge
+2025-07-02 03:45:00,Boring Road,135,16.66,Fog,Highway
+2025-07-02 04:00:00,Patna Junction,119,45.88,Fog,Highway
+2025-07-02 04:15:00,Kankarbagh,164,26.59,Clear,Bridge
+2025-07-02 04:30:00,Boring Road,84,29.57,Clear,Bridge
+2025-07-02 04:45:00,Boring Road,179,34.38,Clear,Bridge
+2025-07-02 05:00:00,Boring Road,107,34.53,Rain,Bridge
+2025-07-02 05:15:00,Kankarbagh,127,38.68,Fog,Highway
+2025-07-02 05:30:00,Boring Road,121,40.73,Fog,City
+2025-07-02 05:45:00,Patna Junction,24,29.81,Rain,Highway
+2025-07-02 06:00:00,Gandhi Maidan,29,28.23,Fog,Bridge
+2025-07-02 06:15:00,Patna Junction,140,39.1,Clear,Bridge
+2025-07-02 06:30:00,Boring Road,63,22.98,Fog,City
+2025-07-02 06:45:00,Boring Road,89,38.01,Clear,Bridge
+2025-07-02 07:00:00,Gandhi Maidan,169,35.12,Fog,Highway
+2025-07-02 07:15:00,Patna Junction,122,42.07,Fog,Bridge
+2025-07-02 07:30:00,Gandhi Maidan,76,41.35,Fog,Bridge
+2025-07-02 07:45:00,Gandhi Maidan,196,25.34,Rain,Bridge
+2025-07-02 08:00:00,Boring Road,81,25.08,Fog,Bridge
+2025-07-02 08:15:00,Patna Junction,23,38.34,Rain,Highway
+2025-07-02 08:30:00,Bailey Road,181,44.7,Fog,City
+2025-07-02 08:45:00,Patna Junction,73,31.66,Clear,City
+2025-07-02 09:00:00,Kankarbagh,22,19.65,Rain,City
+2025-07-02 09:15:00,Kankarbagh,187,39.94,Rain,City
+2025-07-02 09:30:00,Kankarbagh,103,32.58,Rain,City
+2025-07-02 09:45:00,Boring Road,73,25.83,Rain,Bridge
+2025-07-02 10:00:00,Gandhi Maidan,157,47.14,Fog,Highway
+2025-07-02 10:15:00,Boring Road,175,35.84,Fog,Highway
+2025-07-02 10:30:00,Kankarbagh,102,17.47,Fog,City
+2025-07-02 10:45:00,Bailey Road,24,44.98,Clear,City
+2025-07-02 11:00:00,Gandhi Maidan,129,18.33,Clear,Bridge
+2025-07-02 11:15:00,Kankarbagh,33,39.68,Rain,City
+2025-07-02 11:30:00,Gandhi Maidan,93,43.61,Rain,Bridge
+2025-07-02 11:45:00,Kankarbagh,176,22.04,Fog,Highway
+2025-07-02 12:00:00,Kankarbagh,151,37.43,Rain,Bridge
+2025-07-02 12:15:00,Gandhi Maidan,59,12.62,Clear,City
+2025-07-02 12:30:00,Gandhi Maidan,177,29.84,Rain,Highway
+2025-07-02 12:45:00,Gandhi Maidan,44,42.18,Rain,City
+2025-07-02 13:00:00,Boring Road,188,23.09,Rain,Bridge
+2025-07-02 13:15:00,Patna Junction,43,22.69,Rain,Highway
+2025-07-02 13:30:00,Bailey Road,125,26.96,Fog,City
+2025-07-02 13:45:00,Patna Junction,175,33.96,Fog,City
+2025-07-02 14:00:00,Patna Junction,30,21.79,Rain,City
+2025-07-02 14:15:00,Bailey Road,42,21.12,Clear,City
+2025-07-02 14:30:00,Boring Road,96,16.8,Rain,Bridge
+2025-07-02 14:45:00,Patna Junction,118,34.03,Fog,City
+2025-07-02 15:00:00,Patna Junction,122,45.02,Fog,Highway
+2025-07-02 15:15:00,Gandhi Maidan,32,17.58,Fog,Bridge
+2025-07-02 15:30:00,Gandhi Maidan,123,23.93,Fog,Highway
+2025-07-02 15:45:00,Kankarbagh,136,24.48,Clear,City
+2025-07-02 16:00:00,Kankarbagh,194,43.48,Clear,City
+2025-07-02 16:15:00,Patna Junction,195,21.17,Fog,Highway
+2025-07-02 16:30:00,Patna Junction,177,41.26,Fog,Highway
+2025-07-02 16:45:00,Bailey Road,133,24.78,Fog,Highway
+2025-07-02 17:00:00,Patna Junction,75,31.54,Fog,Bridge
+2025-07-02 17:15:00,Bailey Road,79,14.33,Rain,Bridge
+2025-07-02 17:30:00,Kankarbagh,187,30.37,Clear,City
+2025-07-02 17:45:00,Bailey Road,38,36.74,Clear,Highway
+2025-07-02 18:00:00,Bailey Road,141,28.98,Clear,Highway
+2025-07-02 18:15:00,Kankarbagh,83,35.08,Fog,City
+2025-07-02 18:30:00,Patna Junction,90,37.97,Rain,Highway
+2025-07-02 18:45:00,Patna Junction,127,38.54,Rain,Bridge
+2025-07-02 19:00:00,Boring Road,153,27.16,Fog,City
+2025-07-02 19:15:00,Gandhi Maidan,139,29.44,Fog,Bridge
+2025-07-02 19:30:00,Gandhi Maidan,23,32.46,Rain,Highway
+2025-07-02 19:45:00,Kankarbagh,166,18.79,Rain,City
+2025-07-02 20:00:00,Bailey Road,59,15.42,Fog,Highway
+2025-07-02 20:15:00,Patna Junction,23,37.35,Fog,Bridge
+2025-07-02 20:30:00,Kankarbagh,119,22.64,Rain,Bridge
+2025-07-02 20:45:00,Boring Road,183,41.0,Rain,Highway
+2025-07-02 21:00:00,Bailey Road,178,29.15,Fog,Highway
+2025-07-02 21:15:00,Bailey Road,141,10.77,Clear,Highway
+2025-07-02 21:30:00,Boring Road,39,13.62,Fog,City
+2025-07-02 21:45:00,Gandhi Maidan,191,42.26,Clear,Highway
+2025-07-02 22:00:00,Gandhi Maidan,76,22.01,Fog,City
+2025-07-02 22:15:00,Boring Road,155,16.0,Clear,Highway
+2025-07-02 22:30:00,Bailey Road,68,19.93,Rain,City
+2025-07-02 22:45:00,Patna Junction,68,48.53,Fog,Highway
+2025-07-02 23:00:00,Gandhi Maidan,132,38.56,Clear,City
+2025-07-02 23:15:00,Kankarbagh,150,49.96,Fog,Highway
+2025-07-02 23:30:00,Patna Junction,49,42.96,Fog,Highway
+2025-07-02 23:45:00,Gandhi Maidan,170,38.87,Rain,Highway
+2025-07-03 00:00:00,Patna Junction,56,41.92,Clear,Bridge
+2025-07-03 00:15:00,Kankarbagh,148,15.0,Fog,Bridge
+2025-07-03 00:30:00,Bailey Road,105,20.81,Fog,Highway
+2025-07-03 00:45:00,Gandhi Maidan,161,21.64,Fog,Bridge
+2025-07-03 01:00:00,Boring Road,133,38.06,Rain,Highway
+2025-07-03 01:15:00,Gandhi Maidan,117,18.88,Fog,Bridge
+2025-07-03 01:30:00,Boring Road,55,45.77,Clear,Highway
+2025-07-03 01:45:00,Patna Junction,45,20.23,Clear,Bridge
+2025-07-03 02:00:00,Gandhi Maidan,127,20.63,Fog,Highway
+2025-07-03 02:15:00,Bailey Road,46,35.09,Rain,City
+2025-07-03 02:30:00,Bailey Road,78,38.26,Fog,City
+2025-07-03 02:45:00,Boring Road,153,37.58,Clear,City
+2025-07-03 03:00:00,Bailey Road,180,21.79,Fog,Highway
+2025-07-03 03:15:00,Patna Junction,31,22.9,Rain,Highway
+2025-07-03 03:30:00,Bailey Road,92,36.21,Rain,Highway
+2025-07-03 03:45:00,Kankarbagh,176,33.62,Rain,Bridge
+2025-07-03 04:00:00,Bailey Road,20,42.96,Clear,Highway
+2025-07-03 04:15:00,Bailey Road,129,45.58,Fog,Bridge
+2025-07-03 04:30:00,Patna Junction,67,13.5,Rain,Highway
+2025-07-03 04:45:00,Gandhi Maidan,32,35.52,Rain,Highway
+2025-07-03 05:00:00,Boring Road,39,12.42,Clear,Highway
+2025-07-03 05:15:00,Kankarbagh,20,40.16,Clear,Bridge
+2025-07-03 05:30:00,Bailey Road,145,37.66,Clear,Highway
+2025-07-03 05:45:00,Bailey Road,41,47.85,Rain,City
+2025-07-03 06:00:00,Bailey Road,156,26.67,Rain,Bridge
+2025-07-03 06:15:00,Patna Junction,125,16.05,Rain,City
+2025-07-03 06:30:00,Gandhi Maidan,74,49.61,Fog,City
+2025-07-03 06:45:00,Patna Junction,70,49.83,Rain,City
+2025-07-03 07:00:00,Patna Junction,49,32.45,Clear,Bridge
+2025-07-03 07:15:00,Gandhi Maidan,38,47.52,Clear,City
+2025-07-03 07:30:00,Boring Road,133,24.57,Fog,Bridge
+2025-07-03 07:45:00,Patna Junction,20,29.35,Rain,Bridge
+2025-07-03 08:00:00,Boring Road,68,47.86,Fog,City
+2025-07-03 08:15:00,Boring Road,67,31.99,Fog,Bridge
+2025-07-03 08:30:00,Bailey Road,29,11.56,Fog,Bridge
+2025-07-03 08:45:00,Bailey Road,159,11.4,Fog,Bridge
+2025-07-03 09:00:00,Bailey Road,54,15.23,Rain,City
+2025-07-03 09:15:00,Boring Road,117,48.11,Clear,Highway
+2025-07-03 09:30:00,Gandhi Maidan,80,31.46,Fog,Highway
+2025-07-03 09:45:00,Kankarbagh,64,14.95,Fog,Highway
+2025-07-03 10:00:00,Bailey Road,142,46.23,Fog,City
+2025-07-03 10:15:00,Kankarbagh,42,42.48,Clear,City
+2025-07-03 10:30:00,Bailey Road,154,48.83,Fog,Bridge
+2025-07-03 10:45:00,Boring Road,162,31.24,Rain,City
+2025-07-03 11:00:00,Gandhi Maidan,177,16.9,Clear,Highway
+2025-07-03 11:15:00,Gandhi Maidan,145,22.46,Fog,Highway
+2025-07-03 11:30:00,Boring Road,139,40.95,Fog,Bridge
+2025-07-03 11:45:00,Bailey Road,144,10.3,Clear,City
+2025-07-03 12:00:00,Gandhi Maidan,85,37.32,Clear,City
+2025-07-03 12:15:00,Patna Junction,125,10.04,Clear,Bridge
+2025-07-03 12:30:00,Gandhi Maidan,22,19.36,Fog,Highway
+2025-07-03 12:45:00,Gandhi Maidan,40,40.83,Rain,Bridge
+2025-07-03 13:00:00,Kankarbagh,123,47.77,Rain,City
+2025-07-03 13:15:00,Bailey Road,62,42.61,Clear,City
+2025-07-03 13:30:00,Gandhi Maidan,26,13.72,Clear,Highway
+2025-07-03 13:45:00,Kankarbagh,168,17.36,Fog,City
+2025-07-03 14:00:00,Gandhi Maidan,141,49.39,Fog,Bridge
+2025-07-03 14:15:00,Kankarbagh,162,39.51,Fog,Highway
+2025-07-03 14:30:00,Bailey Road,96,18.4,Clear,City
+2025-07-03 14:45:00,Kankarbagh,91,39.63,Rain,Bridge
+2025-07-03 15:00:00,Patna Junction,72,17.89,Rain,Highway
+2025-07-03 15:15:00,Bailey Road,173,28.12,Fog,Highway
+2025-07-03 15:30:00,Gandhi Maidan,36,42.87,Fog,Bridge
+2025-07-03 15:45:00,Gandhi Maidan,65,46.52,Clear,City
+2025-07-03 16:00:00,Gandhi Maidan,26,27.14,Fog,City
+2025-07-03 16:15:00,Gandhi Maidan,112,15.91,Clear,Bridge
+2025-07-03 16:30:00,Bailey Road,86,24.82,Fog,Bridge
+2025-07-03 16:45:00,Boring Road,193,36.38,Fog,City
+2025-07-03 17:00:00,Bailey Road,111,40.27,Fog,Highway
+2025-07-03 17:15:00,Kankarbagh,53,15.92,Rain,City
+2025-07-03 17:30:00,Kankarbagh,172,42.63,Clear,Bridge
+2025-07-03 17:45:00,Kankarbagh,42,29.29,Clear,Bridge
+2025-07-03 18:00:00,Boring Road,136,20.23,Fog,City
+2025-07-03 18:15:00,Boring Road,132,33.15,Rain,City
+2025-07-03 18:30:00,Boring Road,79,48.6,Clear,City
+2025-07-03 18:45:00,Boring Road,187,18.92,Clear,Highway
+2025-07-03 19:00:00,Kankarbagh,176,38.72,Rain,Bridge
+2025-07-03 19:15:00,Patna Junction,161,38.44,Clear,Highway
+2025-07-03 19:30:00,Patna Junction,109,15.69,Fog,Bridge
+2025-07-03 19:45:00,Gandhi Maidan,125,44.12,Clear,Highway
+2025-07-03 20:00:00,Patna Junction,111,27.03,Rain,Bridge
+2025-07-03 20:15:00,Kankarbagh,20,33.47,Fog,City
+2025-07-03 20:30:00,Bailey Road,119,22.21,Fog,City
+2025-07-03 20:45:00,Patna Junction,109,17.17,Fog,Bridge
+2025-07-03 21:00:00,Patna Junction,133,31.42,Fog,Highway
+2025-07-03 21:15:00,Patna Junction,51,41.58,Rain,Bridge
+2025-07-03 21:30:00,Boring Road,126,10.92,Clear,Highway
+2025-07-03 21:45:00,Boring Road,119,24.13,Clear,Highway
+2025-07-03 22:00:00,Bailey Road,59,15.28,Rain,Highway
+2025-07-03 22:15:00,Kankarbagh,111,24.72,Fog,City
+2025-07-03 22:30:00,Gandhi Maidan,36,35.93,Fog,Bridge
+2025-07-03 22:45:00,Boring Road,79,11.71,Fog,Bridge
+2025-07-03 23:00:00,Bailey Road,120,38.9,Fog,Bridge
+2025-07-03 23:15:00,Kankarbagh,97,20.91,Fog,City
+2025-07-03 23:30:00,Bailey Road,116,29.7,Clear,City
+2025-07-03 23:45:00,Gandhi Maidan,116,18.37,Clear,Highway
+2025-07-04 00:00:00,Bailey Road,119,32.11,Clear,City
+2025-07-04 00:15:00,Bailey Road,29,21.64,Clear,Highway
+2025-07-04 00:30:00,Gandhi Maidan,92,14.05,Clear,Highway
+2025-07-04 00:45:00,Kankarbagh,22,23.54,Fog,City
+2025-07-04 01:00:00,Gandhi Maidan,176,43.29,Rain,City
+2025-07-04 01:15:00,Patna Junction,158,35.64,Rain,Highway
+2025-07-04 01:30:00,Kankarbagh,128,13.97,Fog,Bridge
+2025-07-04 01:45:00,Bailey Road,178,46.32,Rain,Bridge
+2025-07-04 02:00:00,Kankarbagh,88,40.84,Clear,Highway
+2025-07-04 02:15:00,Boring Road,184,47.8,Clear,City
+2025-07-04 02:30:00,Gandhi Maidan,52,46.94,Clear,Highway
+2025-07-04 02:45:00,Gandhi Maidan,133,43.62,Rain,Bridge
+2025-07-04 03:00:00,Bailey Road,40,22.82,Fog,Bridge
+2025-07-04 03:15:00,Boring Road,160,10.88,Fog,City
+2025-07-04 03:30:00,Gandhi Maidan,20,34.15,Fog,Bridge
+2025-07-04 03:45:00,Kankarbagh,178,28.14,Clear,Bridge
+2025-07-04 04:00:00,Boring Road,155,23.56,Rain,City
+2025-07-04 04:15:00,Gandhi Maidan,148,11.61,Rain,Bridge
+2025-07-04 04:30:00,Bailey Road,177,35.63,Clear,Highway
+2025-07-04 04:45:00,Bailey Road,163,34.36,Clear,City
+2025-07-04 05:00:00,Boring Road,118,20.51,Fog,Highway
+2025-07-04 05:15:00,Bailey Road,140,12.04,Fog,City
+2025-07-04 05:30:00,Bailey Road,186,47.56,Clear,Bridge
+2025-07-04 05:45:00,Gandhi Maidan,117,46.42,Clear,Bridge
+2025-07-04 06:00:00,Kankarbagh,32,21.99,Rain,Bridge
+2025-07-04 06:15:00,Boring Road,176,40.78,Rain,City
+2025-07-04 06:30:00,Boring Road,114,13.01,Clear,City
+2025-07-04 06:45:00,Kankarbagh,156,23.5,Rain,Highway
+2025-07-04 07:00:00,Patna Junction,85,47.95,Fog,Highway
+2025-07-04 07:15:00,Kankarbagh,39,10.62,Fog,Highway
+2025-07-04 07:30:00,Bailey Road,166,39.17,Clear,Bridge
+2025-07-04 07:45:00,Boring Road,188,12.41,Rain,City
+2025-07-04 08:00:00,Gandhi Maidan,61,25.63,Rain,City
+2025-07-04 08:15:00,Boring Road,30,34.07,Fog,Highway
+2025-07-04 08:30:00,Patna Junction,67,16.95,Rain,Bridge
+2025-07-04 08:45:00,Boring Road,87,36.92,Clear,City
