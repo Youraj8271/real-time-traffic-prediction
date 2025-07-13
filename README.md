@@ -91,6 +91,21 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
+🧠 How it Works
+Collect simulated traffic data (timestamp, location, weather, speed)
+
+Preprocess + encode with pandas + sklearn
+
+Train model on 80% of the data
+
+Predict vehicle_count based on real-time inputs
+
+Show prediction on stylish Streamlit dashboard
+
+💡 Like this Project?
+⭐ Star this repo if you learned something!
+🛠️ Fork and customize it for your own city traffic!
+
 🔥 By: Youraj Kumar
 🎓 IIT Patna
 📧 youraj_2412res154@iitp.ac.in
