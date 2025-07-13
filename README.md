@@ -1,6 +1,6 @@
 🚦 Real-Time Traffic Flow Predictor
 
-An AI-powered traffic flow prediction system that estimates the number of vehicles using real-time input like time, location, weather, road type, and average speed.  
+🔸An AI-powered traffic flow prediction system that estimates the number of vehicles using real-time input like time, location, weather, road type, and average speed.  
 Built using **Python, Machine Learning**, and a fully styled **Streamlit Dashboard**.
 
 📌 Key Features
@@ -38,31 +38,31 @@ real_time_traffic_prediction/
 └── README.md
 
 📸 Dashboard Preview
-Styled 2-column layout with real-time prediction display
+🔸Styled 2-column layout with real-time prediction display
 
 🧭 Input Panel (Left):
 📍 Location, 🌦️ Weather, 🛣️ Road Type, ⏰ Hour, 📅 Day, 🚗 Avg Speed
 
 📊 Output Panel (Right):
-Predicted Vehicle Count (AI-powered)
+🔸Predicted Vehicle Count (AI-powered)
 
 🧪 Synthetic Dataset Creation
 ✅ Wrote a custom Python script generate_dataset.py to generate realistic traffic data:
 
-timestamp, location, vehicle_count, avg_speed, weather, road_type
+🔸 timestamp, location, vehicle_count, avg_speed, weather, road_type
 
 📄 Saved as traffic_data.csv inside data/ folder
 
 🧹Data Cleaning & Feature Engineering
 📘 Notebook: notebooks/eda.ipynb
 
-Converted timestamp into hour, day, weekday
+🔸Converted timestamp into hour, day, weekday
 
-Applied Label Encoding for categorical features:
+🔸Applied Label Encoding for categorical features:
 
-location, weather, road_type
+🔸location, weather, road_type
 
-Saved cleaned data as traffic_cleaned.csv
+🔸Saved cleaned data as traffic_cleaned.csv
 
 🧠  Model Training (ML Model)
 🎯 Target: vehicle_count
@@ -73,34 +73,34 @@ Saved cleaned data as traffic_cleaned.csv
 
 ✅ Performed:
 
-Train-Test Split
+🔸Train-Test Split
 
-Training
+🔸Training
 
-MAE, RMSE, R² Evaluation
+🔸MAE, RMSE, R² Evaluation
 
 📦 Saved final model as traffic_model.pkl
 
 🚀 How to Run
-git clone https://github.com/Youraj8271/real-time-traffic-prediction.git
-cd real-time-traffic-prediction
+🔸git clone https://github.com/Youraj8271/real-time-traffic-prediction.git
+🔸cd real-time-traffic-prediction
 
-# Install dependencies
-pip install -r requirements.txt
+📍 Install dependencies
+🔸pip install -r requirements.txt
 
-# Run the app
-streamlit run app.py
+📍Run the app
+🔸streamlit run app.py
 
 🧠 How it Works
-Collect simulated traffic data (timestamp, location, weather, speed)
+ 🔸Collect simulated traffic data (timestamp, location, weather, speed)
 
-Preprocess + encode with pandas + sklearn
+ 🔸Preprocess + encode with pandas + sklearn
 
-Train model on 80% of the data
+ 🔸Train model on 80% of the data
 
-Predict vehicle_count based on real-time inputs
+ 🔸Predict vehicle_count based on real-time inputs
 
-Show prediction on stylish Streamlit dashboard
+ 🔸Show prediction on stylish Streamlit dashboard
 
 💡 Like this Project?
 ⭐ Star this repo if you learned something!
